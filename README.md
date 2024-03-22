@@ -10,7 +10,7 @@
 
 ---
 
-### :desktop_computer: OS and Distributions:
+### :desktop_computer: OS and Distribution:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Arch-Linux.svg" title="Arch" alt="Arch" width="60" height="60"/>&nbsp;
