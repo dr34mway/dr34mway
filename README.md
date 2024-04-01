@@ -14,7 +14,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Arch-Linux.svg" title="Arch" alt="Arch" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Tools :
