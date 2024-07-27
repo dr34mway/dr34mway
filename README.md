@@ -1,11 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://t.me/dr34mway">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo-telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-
----
-
 ### :desktop_computer: OS and Distribution:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
